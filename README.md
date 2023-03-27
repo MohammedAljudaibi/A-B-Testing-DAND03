@@ -4,20 +4,6 @@ This repository contains a Jupyter Notebook analyze_ab_test_results.ipynb that d
 1. Keep the old webpage, or
 1. Run the experiment longer to make their decision.
 
-## Table of Contents
-The Jupyter Notebook is divided into three main parts, and a conclusion:
-1. Probability
-1. A/B Test
-1. Regression
-1. Conclusions
-
-## Libraries Used
-The following libraries are used in this project:
-* pandas
-* numpy
-* random
-* matplotlib
-
 ## Data
 The data used in this project is stored in ab_data.csv. The data contains 5 columns:
 * user_id: Unique ID (int64)
